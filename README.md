@@ -1,4 +1,4 @@
 # Ahoy-hoy!
 
-I'm a data science student with a background in economics and statistics.
-I'm interested in research at the intersection of data, demographics, policy, and urban systems.
+I'm a master's student in data science with a background in economics and statistics.
+Read more about me on my [blog and website](https://eordonez.com/).
